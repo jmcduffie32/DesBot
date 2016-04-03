@@ -1,0 +1,14 @@
+{
+  "name": "des-bot",
+  "version": "0.0.1",
+  "description": "A slack-bot that tells terrible jokes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon McDuffie",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "0.0.15"
+  }
+}
