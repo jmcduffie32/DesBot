@@ -9,6 +9,7 @@
   "author": "Jon McDuffie",
   "license": "MIT",
   "dependencies": {
-    "botkit": "0.0.15"
+    "botkit": "0.0.15",
+    "jsonfile": "^2.2.3"
   }
 }
